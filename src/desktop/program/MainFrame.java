@@ -14,8 +14,9 @@ import javax.swing.JOptionPane;
 public class MainFrame extends javax.swing.JFrame {
 
     /**
-     * Creates new form MainFrame
+     * Creates new form MainFraijhiuhuime
      */
+    /*jhhouihoi**/
     public MainFrame() {
         initComponents();
         
